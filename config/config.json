@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "dbomra.db_owner",
+    "password": "LChyYAsSj6m3",
+    "database": "dbomra.db",
+    "host": "ep-sweet-waterfall-a5vj5vn5.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "dbomra.db_owner",
+    "password": "LChyYAsSj6m3",
+    "database": "dbomra.db",
+    "host": "ep-sweet-waterfall-a5vj5vn5.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "dbomra.db_owner",
+    "password": "LChyYAsSj6m3",
+    "database": "dbomra.db",
+    "host": "ep-sweet-waterfall-a5vj5vn5.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
